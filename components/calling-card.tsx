@@ -13,6 +13,9 @@ export function CallingCard() {
         <h1 className="mt-5 text-3xl font-semibold tracking-tight text-foreground text-balance">
           Raegan Pidgeon
         </h1>
+        <p className="mt-2 text-sm text-muted-foreground text-balance">
+          Learning, creating, and growing in tech.
+        </p>
       </header>
 
       <div className="mt-8 space-y-5">
