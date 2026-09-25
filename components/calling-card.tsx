@@ -25,7 +25,8 @@ export function CallingCard() {
               What I do
             </h2>
             <p className="mt-1 leading-relaxed text-foreground">
-              I like to work on all types of technology.
+              I currently work as an AI Trainer at Handshake, where I contribute to projects involving artificial
+              intelligence and emerging technology.
             </p>
           </div>
         </section>
@@ -39,7 +40,9 @@ export function CallingCard() {
               A little more
             </h2>
             <p className="mt-1 leading-relaxed text-foreground">
-              {"I'm also learning how to code and develop my skills."}
+              {
+                "I'm currently learning how to code and continuing to expand my technical skills. I also enjoy drawing and occasionally working on graphic design on my free time. I have a genuine interest in technology and love exploring different ways to be creative while working with it."
+              }
             </p>
           </div>
         </section>
