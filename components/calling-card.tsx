@@ -53,9 +53,9 @@ export function CallingCard() {
         </h2>
         <a
           href="mailto:raeganpidgeon98@gmail.com"
-          className="mt-3 flex items-center justify-center gap-2 rounded-full bg-primary px-5 py-3 font-medium text-primary-foreground transition-opacity hover:opacity-90 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 focus-visible:ring-offset-card"
+          className="mt-3 flex items-center justify-center gap-2 rounded-full bg-primary px-4 py-3 text-sm font-medium text-primary-foreground transition-opacity hover:opacity-90 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 focus-visible:ring-offset-card sm:px-5 sm:text-base"
         >
-          <Mail className="h-4 w-4" aria-hidden="true" />
+          <Mail className="h-4 w-4 shrink-0" aria-hidden="true" />
           raeganpidgeon98@gmail.com
         </a>
       </footer>
