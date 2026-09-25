@@ -24,7 +24,7 @@ export function CallingCard() {
             <h2 className="text-xs font-medium uppercase tracking-wider text-muted-foreground">
               What I do
             </h2>
-            <p className="mt-1 leading-relaxed text-foreground">
+            <p className="mt-1 text-sm leading-relaxed text-foreground sm:text-base">
               I currently work as an AI Trainer at Handshake.
             </p>
           </div>
@@ -38,7 +38,7 @@ export function CallingCard() {
             <h2 className="text-xs font-medium uppercase tracking-wider text-muted-foreground">
               A little more
             </h2>
-            <p className="mt-1 leading-relaxed text-foreground">
+            <p className="mt-1 text-sm leading-relaxed text-foreground sm:text-base">
               {
                 "I'm learning how to code and continuing to build my technical skills. I also enjoy drawing, graphic design, and working with technology."
               }
